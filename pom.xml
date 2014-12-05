@@ -19,6 +19,9 @@
     <packaging>pom</packaging>
 
     <url>https://github.com/kaazing/gateway.client.java.common.git</url>
+    <description>
+        Common environment for Java client projects.
+    </description>
     <scm>
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
